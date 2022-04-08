@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2022-04-09T22:29:01.48286+02:00",
+    "temperatureC": -7,
+    "temperatureF": 20,
+    "summary": "Hot"
+  },
+  {
+    "date": "2022-04-10T22:29:01.4845986+02:00",
+    "temperatureC": 22,
+    "temperatureF": 71,
+    "summary": "Warm"
+  },
+  {
+    "date": "2022-04-11T22:29:01.4846076+02:00",
+    "temperatureC": 10,
+    "temperatureF": 49,
+    "summary": "Cool"
+  },
+  {
+    "date": "2022-04-12T22:29:01.4846082+02:00",
+    "temperatureC": -15,
+    "temperatureF": 6,
+    "summary": "Warm"
+  },
+  {
+    "date": "2022-04-13T22:29:01.4846085+02:00",
+    "temperatureC": 50,
+    "temperatureF": 121,
+    "summary": "Hot"
+  }
+]
