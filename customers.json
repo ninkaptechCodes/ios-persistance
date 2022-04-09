@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "firstname": "Frank",
+    "lastname": "Lacroix",
+    "createdOn": "2022-04-09T21:27:57.3672326"
+  },
+  {
+    "id": 2,
+    "firstname": "Marie",
+    "lastname": "Kapinga",
+    "createdOn": "2022-04-09T21:27:57.3672326"
+  },
+  {
+    "id": 3,
+    "firstname": "Lea",
+    "lastname": "Agnes",
+    "createdOn": "2022-04-09T21:27:57.3672326"
+  },
+  {
+    "id": 4,
+    "firstname": "string",
+    "lastname": "string",
+    "createdOn": "2022-04-09T21:45:42.641094"
+  }
+]
